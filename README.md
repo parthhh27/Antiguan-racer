@@ -1,3 +1,1 @@
-# Antiguan-racer
-
-just learning python
+# Antiguan-racer - g.u.e.s.s
